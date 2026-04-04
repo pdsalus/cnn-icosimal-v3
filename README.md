@@ -3,15 +3,15 @@
 To Do
 
 a) Start from simple CNN architectures and progressively increase their complexity to show the benefit of depth.
-(Done)
+P(Done)
 b) Show the importance of hyperparameter tuning.
-(Done)
+P(Done)
 c) Show models that overfit and underfit and explain the reasons for that.
 ()
 d) Experiment with regularization techniques.
-(Done)
+P(Done)
 e) Experiment with different optimization algorithms (e.g., Adam, RMSprop) and compare their performance.
-(Done)
+P(Done)
 
 — Perform error analysis to identify common misclassifications.
 ()
@@ -22,11 +22,12 @@ e) Experiment with different optimization algorithms (e.g., Adam, RMSprop) and c
 — Use frameworks to automatically search for the best hyperparameters (e.g., Optuna, Hyperopt) and compare their performance with manual tuning.
 ()
 — Use advanced architectures (e.g., ResNet, DenseNet) and compare their performance with simpler architectures.
-(Done)
+P(Done)
 — Perform transfer learning using pre-trained models and compare their performance with models trained from scratch.
-(Done)
+P(Done)
 — Experiment with data augmentation techniques to improve model generalization (e.g., random cropping, horizontal flipping, color jittering).
 ()
 — Augment the dataset by re-collecting images (e.g., using the Bing API with imagescraper.py) ; use your best model to validate the newly collected images.
 ()
 — Use visualization techniques (e.g., Grad-CAM) to understand which parts of the images the model is focusing on when making predictions.
+()
